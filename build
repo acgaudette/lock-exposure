@@ -1,0 +1,5 @@
+#!/bin/bash
+
+clang lock-exposure.m \
+-framework Foundation -framework AVFoundation \
+-o 'lock-exposure'
