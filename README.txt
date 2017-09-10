@@ -1,0 +1,1 @@
+Usage: ./build; ./lock-exposure
